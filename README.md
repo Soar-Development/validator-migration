@@ -123,4 +123,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For support or inquiries, please contact [Your Name/Organization] at [Your Email].
+For support or inquiries, please contact us from our Discord or Telegram Channels.
